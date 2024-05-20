@@ -2,13 +2,6 @@
 
 This repository is used to test the basic programming level of the participants in the Computer Science Beginner BootCamp.
 
-## Architecture
-
-The repository is organized as follows:
-
-- `data_files/`: This directory contains all the files necessary for the assignments, such as input data or supplementary files.
-- `programs/`: Upload your programs in this folder.
-
 ## Questions
 
 Write a program for at least one of these questions. You can use any programming language.
